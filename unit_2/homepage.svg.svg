@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1280 720" style="enable-background:new 0 0 1280 720;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#2E358F;stroke:#000000;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st2{fill:none;}
+	.st3{fill:#2E3192;}
+	.st4{font-family:'Arial-BoldMT';}
+	.st5{font-size:48px;}
+	.st6{fill:#808285;stroke:#000000;stroke-miterlimit:10;}
+	.st7{fill:#FFFFFF;}
+	.st8{font-family:'RageItalic';}
+	.st9{font-size:28px;}
+	.st10{letter-spacing:7;}
+	.st11{letter-spacing:29;}
+	.st12{letter-spacing:27;}
+	.st13{fill:#2E358F;}
+	.st14{font-size:35px;}
+	.st15{font-size:10px;}
+</style>
+<rect class="st0" width="1280" height="50"/>
+<rect x="41" y="141" class="st1" width="339" height="224"/>
+<rect x="73.5" y="460.5" class="st2" width="1133" height="55"/>
+<text transform="matrix(1 0 0 1 314.6289 494.8672)" class="st3 st4 st5">This is the title for this page.</text>
+<rect x="-0.5" y="690" class="st6" width="1280" height="30"/>
+<rect x="470" y="141" class="st1" width="339" height="224"/>
+<rect x="893" y="141" class="st1" width="339" height="224"/>
+<rect x="25" y="12.5" class="st2" width="371" height="25"/>
+<text transform="matrix(1 0 0 1 25 30.4199)" class="st7 st8 st9">Lyndon Crowson’s Original Artwork</text>
+<rect x="877" y="12.5" class="st2" width="371" height="25"/>
+<text transform="matrix(1 0 0 1 877 30.4199)"><tspan x="0" y="0" class="st7 st8 st9">About</tspan><tspan x="57" y="0" class="st7 st8 st9 st10">	</tspan><tspan x="72" y="0" class="st7 st8 st9 st11">		</tspan><tspan x="144" y="0" class="st7 st8 st9">Gallery</tspan><tspan x="217.4" y="0" class="st7 st8 st9 st12">	</tspan><tspan x="252" y="0" class="st7 st8 st9 st11">	</tspan><tspan x="288" y="0" class="st7 st8 st9">Contact</tspan></text>
+<text transform="matrix(1 0 0 1 331.2334 551)" class="st13 st4 st14">This is a jazzy subhead for this page.</text>
+<text transform="matrix(1 0 0 1 547.2661 705)" class="st7 st4 st15">This is where some footer stuff will go.</text>
+<polygon class="st1" points="210.5,150.3 243.9,217.9 318.5,228.8 264.5,281.4 277.2,355.7 210.5,320.6 143.8,355.7 156.5,281.4 
+	102.5,228.8 177.1,217.9 "/>
+<polygon class="st1" points="588.8,341.7 537.5,253 588.8,164.3 691.2,164.3 742.5,253 691.2,341.7 "/>
+<circle class="st1" cx="1062.5" cy="253" r="91.5"/>
+</svg>
