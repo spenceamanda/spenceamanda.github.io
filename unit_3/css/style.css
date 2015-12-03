@@ -1,0 +1,37 @@
+body {
+	text-align: center;
+	background: url ("images/mermaid_hero.jpg");
+	background-size: cover;
+	font-family: Helvetica, sans-serif;
+	color: #e41a13;
+}
+
+h1 {
+	font-size: 40px;
+}
+
+
+hr {
+	width: 200px;
+}
+
+a {
+	text-decoration: none;
+	font-weight: bolder;
+	color: #000;
+	}
+
+p {
+	color: #000;
+	font-weight: bold;
+}
+
+ul {
+	color: #000;
+	font-weight: bold;
+	text-align: left;
+}
+
+#contact_link {
+	text-align: left;
+}
