@@ -1,0 +1,57 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat|Lora);
+
+body {
+	text-align: center;
+	color: fff;
+	font-family: "Lora", Garamond, serif;
+	margin: 0;
+}
+
+h1 {
+	font-size: 2em;
+	color: #e41a13;
+	font-family: "Montserrat", Helvetica, sans-serif;
+}
+
+h2 {
+	font-size: 1.5em;
+	color: #e41a13;
+	font-family: "Montserrat", Helvetica, sans-serif;
+}
+
+h3 {
+	font-size: 1.3em;
+}
+
+hr {
+	width: 150px;
+}
+
+
+a {
+	text-decoration: none;
+	color: #0000ff;
+}
+
+p {
+	color: #000;
+	font-size: 16px;
+	line-height: 1.5em;
+	margin: 2em;
+}
+
+ul {
+	color: #000;
+	text-align: left;
+}
+
+#contact_link {
+	text-align: center;
+}
+
+#intro {
+background: url("../images/mermaid_hero.jpg") no-repeat center center fixed;
+background-size: cover;
+padding-top: 100px;
+padding-bottom: 100px;
+}

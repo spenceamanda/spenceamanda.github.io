@@ -1,9 +1,12 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat|Lora);
+
 body {
 	text-align: center;
-	background: url ("images/mermaid_hero.jpg");
+	background: url ("../images/mermaid_hero.jpg");
 	background-size: cover;
 	font-family: Helvetica, sans-serif;
-	color: #e41a13;
+	color:#e41a13;
+	margin: 0;
 }
 
 h1 {
@@ -15,11 +18,12 @@ hr {
 	width: 200px;
 }
 
+
 a {
 	text-decoration: none;
 	font-weight: bolder;
 	color: #000;
-	}
+}
 
 p {
 	color: #000;
