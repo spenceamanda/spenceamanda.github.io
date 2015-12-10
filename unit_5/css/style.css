@@ -1,0 +1,143 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat|Lora);
+
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	text-align: center;
+	color: 000;
+	font-family: "Lora", Garamond, serif;
+	background-color: #fff;
+}
+
+nav {
+/*	font-family: "Montserrat";
+	text-align: center;
+	padding: 2em;
+	background-color: #000;
+	font-size: .7em;
+	font-color: #fff;*/
+	background-color: #e8c66a;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+a:hover {
+	color: #e41a13;
+}
+
+#hero {
+	display: block;
+	width: 100%;
+}
+
+header {
+/*	margin: 2em;*/
+	background-color: #ffed74;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+h1 {
+	font-size: 2em;
+	color: #e41a13;
+	font-family: "Montserrat", Helvetica, sans-serif;
+}
+
+h2 {
+	color: #000;
+	font-size: .9em;
+	font-style: bold;
+	line-height: 1.5em;
+	padding: 0 2em;
+}
+
+h3 {
+	font-size: 1.3em;
+	color: #e41a13;
+	font-family: "Montserrat", Helvetica, sans-serif;
+	padding: .8em 0;
+}
+
+aside {
+	float: left;
+	background-color: #ffc675;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+
+/*#lyndon_face {*/
+/*	background-color: #696969;
+	text-align: center;
+	width: 35%;
+	padding-bottom: 2.5em;
+	padding-top: 1em;*/
+}
+
+article {
+	float: right;
+	background-color: #e89c6c;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+/*#about_p {
+/*	background-color: #A9A9A9; */
+	text-align: left;
+	width: 65%;
+	padding-bottom: 2.5em;
+	padding-top: 1em;*/
+}
+
+
+hr {
+	width: 150px;
+}
+
+p {
+	color: #000;
+	font-size: 16px;
+	line-height: 1.5em;
+	margin: 2em;
+}
+
+ul {
+	color: #000;
+	text-align: left;
+	list-style: none;
+	margin: 2em;
+}
+
+#portfolio {
+	text-align: center;
+}
+
+.portfolio_head {
+	padding: .5em;
+}
+
+#contact_link {
+	text-align: center;
+	background-color: #A9A9A9;
+	padding: 2em;
+}
+
+footer {
+/*	text-align: left;
+	color: #e41a13;
+	font-size: .8em;
+	background-color: #000;
+	padding: 2em;*/
+	background-color: #ff957e;
+	border: 1px black solid;
+	padding: 20px;
+}
