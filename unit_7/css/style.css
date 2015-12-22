@@ -27,7 +27,7 @@ nav a {
 }
 
 a {
-	color: white;
+	color: #fff;
 	text-decoration: none;
 	font-weight: bold;
 }
@@ -70,7 +70,7 @@ h3 {
 }
 
 #wrapper_about {
-	background-color: #696969;
+	background-color: #d9d9d9;
 	height: 650px;
 	overflow: auto;
 }
@@ -126,8 +126,24 @@ ul {
 	margin: 2em;
 }
 
+.nav_portfolio {
+	text-align: left;
+	background-color: #f2f2f2;
+	font-size: 1.2em;
+	padding: 0;
+}
+
+.nav_portfolio a {
+	color: #000;
+}
+
+.nav_portfolio a:hover {
+	color: #e41a13;
+}
+
 #portfolio {
 	text-align: center;
+	background-color: #f2f2f2;
 }
 
 .portfolio_head {
@@ -144,7 +160,7 @@ ul {
 }
 
 #wrapper_contact {
-	background-color: #696969;
+	background-color: #d9d9d9;
 	height: 650px;
 	overflow: auto;
 }
@@ -152,6 +168,15 @@ ul {
 #contact_link {
 	text-align: center;
 	padding: 2em;
+	color: #000;
+}
+
+#contact_link a {
+	color: #000;
+}
+
+#contact_link a:hover {
+	color: #e41a13;
 }
 
 footer {
