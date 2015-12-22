@@ -42,7 +42,7 @@ a:hover {
 }
 
 header {
-	padding: 2.2em;
+	padding: 2.05em;
 }
 
 h1 {
@@ -71,7 +71,7 @@ h3 {
 
 #wrapper_about {
 	background-color: #d9d9d9;
-	height: 650px;
+	height: 637px;
 	overflow: auto;
 }
 
@@ -161,7 +161,7 @@ ul {
 
 #wrapper_contact {
 	background-color: #d9d9d9;
-	height: 650px;
+	height: 637px;
 	overflow: auto;
 }
 
@@ -177,6 +177,11 @@ ul {
 
 #contact_link a:hover {
 	color: #e41a13;
+}
+
+form {
+	text-align: center;
+	line-height: 2em;
 }
 
 footer {
