@@ -280,10 +280,6 @@ footer {
     text-align: left;
 }
 
-.dropdown a:hover {
-	display: none;
-}
-
 /* Dropdown Content (Hidden by Default) */
 .dropdown-content {
     display: none;
@@ -383,6 +379,11 @@ footer {
 
 	#about_title {
 		padding: 1.5em;
+	}
+
+	#about_p {
+		margin: 0;
+		padding: 0;
 	}
 
 	.columns33 img {
