@@ -280,6 +280,10 @@ footer {
     text-align: left;
 }
 
+.dropdown a:hover {
+	display: none;
+}
+
 /* Dropdown Content (Hidden by Default) */
 .dropdown-content {
     display: none;
