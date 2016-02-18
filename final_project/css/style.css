@@ -175,6 +175,12 @@ p {
 	background-color: #d9d9d9;
 	padding: 5.5em 2em;
 	overflow: auto;
+	width: 100%;
+}
+
+#wufoo-z1nur44302gocnh {
+	width: 100%;
+	margin: auto;
 }
 
 footer {
