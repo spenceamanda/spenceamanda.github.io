@@ -254,8 +254,8 @@ footer {
 /* Dropdown Button */
 .dropbtn {
     background-color: #000;
-    font-color: white;
-    padding: 5px;
+    font-color: #fff;
+    padding: 12px 16px;
     font-size: 16px;
     border: none;
     cursor: pointer;
@@ -273,12 +273,19 @@ footer {
     display: inline-block;
 }
 
+.dropdown a {
+	background-color: #000;
+	font-color: #fff;
+	display: block;
+    text-align: left;
+}
+
 /* Dropdown Content (Hidden by Default) */
 .dropdown-content {
     display: none;
     position: absolute;
     background-color: #000;
-    min-width: 279px;
+    min-width: 200px;
     overflow: auto;
 }
 
