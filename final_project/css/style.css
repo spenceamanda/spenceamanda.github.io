@@ -186,7 +186,7 @@ footer {
 	clear: both;
 	height: 200px;
 	width: 100%;
-}
+	overflow: auto;}
 
 @media only screen and (min-width: 801px) and (max-width: 1108px) {
 	
@@ -368,10 +368,6 @@ footer {
 	p {
 		font-size: .9em;
 	}
-	
-/*	nav {
-		float: none;
-	}*/
 
 	.nav_portfolio {
 		display: none;
@@ -406,8 +402,6 @@ footer {
 
 	footer {
 		padding: 2em;
-		width: 100%;
-		overflow: auto;
 	}
 
 }
