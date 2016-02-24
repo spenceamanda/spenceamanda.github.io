@@ -266,7 +266,6 @@ body {
     background-color: #000;
     font-color: #fff;
     padding: .25em 1em;
-    font-size: 16px;
     border: none;
 }
 
@@ -284,6 +283,7 @@ body {
 
 .dropdown a {
 	float: left;
+	font-size: 16px;
 	background-color: #000;
 	font-color: #fff;
 	display: block;
@@ -295,7 +295,7 @@ body {
     display: none;
     position: absolute;
     background-color: #000;
-    min-width: 200px;
+    min-width: 100%;
     overflow: auto;
 }
 
@@ -303,7 +303,8 @@ body {
 .dropdown-content a {
 	background-color: #000;
     font-color: #fff;
-    padding: 12px 16px;
+    font-size: 16px;
+    padding: .25em 1em;
     text-decoration: none;
     display: block;
     text-align: left;
